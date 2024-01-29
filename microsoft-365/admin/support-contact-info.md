@@ -4219,7 +4219,7 @@ English: Monday through Friday, 9 AM-5 PM
    :::column-end:::
    :::column:::
 **Technical support hours:**\
-English: 24 hours a day, 7 days a week
+English: English: Monday through Friday, 9 AM-6 PM
    :::column-end:::
 :::row-end:::
 
